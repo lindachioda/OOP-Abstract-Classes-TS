@@ -1,5 +1,5 @@
 
-## 🛠️ Tecnologia utilizzate
+## 🛠️ Tecnologie utilizzate
 
 * TypeScript
 * Object-Oriented Programming (OOP)
